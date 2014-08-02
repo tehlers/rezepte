@@ -2,19 +2,33 @@
 layout: default
 ---
 
-<div class="home">
+<h1>Aktuelle Rezepte</h1>
 
-  <h1>Posts</h1>
-
-  <ul class="posts">
+<ul class="list-group">
     {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
+        <li class="list-group-item">
+            <h2 class="list-group-item-heading">
+                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                <small>
+                    {% assign m = post.date | date: "%-m" %}
+                    ({{ post.date | date: "%-d" }}.
+                    {% case m %}
+                        {% when '1' %}Januar
+                        {% when '2' %}Februar
+                        {% when '3' %}März
+                        {% when '4' %}April
+                        {% when '5' %}Mai
+                        {% when '6' %}Juni
+                        {% when '7' %}Juli
+                        {% when '8' %}August
+                        {% when '9' %}September
+                        {% when '10' %}Oktober
+                        {% when '11' %}November
+                        {% when '12' %}Dezember
+                    {% endcase %}
+                    {{ post.date | date: "%Y" }})
+                </small>
+            </h2>
+        </li>
     {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+</ul>
