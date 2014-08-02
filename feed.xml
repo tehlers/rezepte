@@ -1,30 +1,102 @@
----
-layout: none
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Rezepte</title>
+    <description>Eine Sammlung von Rezepten</description>
+    <link>http://tehlers.github.io/rezepte/rezepte/</link>
+    <atom:link href="http://tehlers.github.io/rezepte/rezepte/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 02 Aug 2014 21:58:48 +0200</pubDate>
+    <lastBuildDate>Sat, 02 Aug 2014 21:58:48 +0200</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Zupf Schuedi</title>
+        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+
+&lt;h3 id=&quot;teig&quot;&gt;Teig&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;350g Mehl Type 550&lt;/li&gt;
+  &lt;li&gt;160g Milch&lt;/li&gt;
+  &lt;li&gt;20g Frischhefe&lt;/li&gt;
+  &lt;li&gt;50g Butter&lt;/li&gt;
+  &lt;li&gt;30g Rohrohrzucker&lt;/li&gt;
+  &lt;li&gt;1 Ei&lt;/li&gt;
+  &lt;li&gt;1 Teelöffel Salz&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;fllung&quot;&gt;Füllung&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;70g sehr weiche Butter&lt;/li&gt;
+  &lt;li&gt;80g Rohrohrzucker, noch besser: Muscovado Zucker (brauner, leicht feuchter Rohrzucker)&lt;/li&gt;
+  &lt;li&gt;2 Teelöffel Sweet Dreams Gewürzmischung&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
+
+&lt;p&gt;Hefe in 3 Esslöffel Milch auflösen und beiseite stellen.&lt;/p&gt;
+
+&lt;p&gt;Restliche Milch, Butter und Zucker erhitzen, bis die Butter geschmolzen ist. Auf mindestens 38°C abkühlen lassen, sonst sterben die Hefekulturen ab. Ei unterschlagen.&lt;/p&gt;
+
+&lt;p&gt;Mehl in die Rührschüssel der Küchenmaschine geben. Milchmischung und aufgelöste Hefe hinzufügen. Alles 4 Minuten auf Stufe 1 (von 4) kneten. Salz hinzugeben und auf Stufe 2 weitere 8 Minuten kneten. Zugedeckt an einem warmen Ort 40 Minuten ruhen lassen.&lt;/p&gt;
+
+&lt;p&gt;Backform einfetten und mit Mehl bestäuben.&lt;/p&gt;
+
+&lt;p&gt;Den Teig kurz entgasen, rund formen und 10 Minuten entspannen lassen.&lt;/p&gt;
+
+&lt;p&gt;Auf einer bemehlten Arbeitsfläche dünn zu einem 30 x 50 cm Rechteck ausrollen. Mit Butter bestreichen bzw. einpinseln. Zucker und Gewürzmischung vermischen und bis auf einen Esslöffel gleichmäßig darüber streuen. Den Teig entlang der schmalen Seite parallel in 6 gleichmäßig breite Streifen schneiden. Vorsichtig aufeinanderlegen. Diesen langen Stapel in 6 gleich grosse Häufchen schneiden. Diese parallel hochkant in die Kastenform schichten. Mit dem Pinsel, an dem noch etwas Butter haftet über die Oberfläche streichen und restliche Zuckermischung darüber streuen.&lt;/p&gt;
+
+&lt;p&gt;Zugedeckt an einem warmen Ort 45-60 Minuten gehen lassen, bis der Teig die Form gut ausfüllt.&lt;/p&gt;
+
+&lt;p&gt;Backofen rechtzeitig auf 175°C Ober-/Unterhitze vorheizen und 30-35 Minuten backen. Falls nötig mit Alufolie abdecken, damit die Oberfläche nicht zu dunkel wird. 10 Minuten in der Form ruhen lassen, dann entnehmen und auf einem Kuchengitter auskühlen lassen.&lt;/p&gt;
+
+&lt;p&gt;Bleibt mindestens 2-3 Tage saftig. Die Oberfläche ist frisch aber am knusprigsten.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Aug 2014 23:15:00 +0200</pubDate>
+        <link>http://tehlers.github.io/rezepte/rezepte/kuchen/2014/08/02/zupf-schuedi/</link>
+        <guid isPermaLink="true">http://tehlers.github.io/rezepte/rezepte/kuchen/2014/08/02/zupf-schuedi/</guid>
+        
+        <category>Kuchen</category>
+        
+        
+        <category>kuchen</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Einfache Förtchen</title>
+        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;250g Mehl&lt;/li&gt;
+  &lt;li&gt;knapp 1/4l Milch&lt;/li&gt;
+  &lt;li&gt;150g Butter&lt;/li&gt;
+  &lt;li&gt;4 Eier&lt;/li&gt;
+  &lt;li&gt;Saft und Schale einer Zitrone&lt;/li&gt;
+  &lt;li&gt;Salz&lt;/li&gt;
+  &lt;li&gt;2EL Zucker&lt;/li&gt;
+  &lt;li&gt;Fett zum Backen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
+
+&lt;p&gt;Milch, Mehl, Salz, Zucker, geschmolzene Butter, Zitrone und Eigelb sehr gut verrühren.&lt;/p&gt;
+
+&lt;p&gt;Den steifen Eischnee unterziehen.&lt;/p&gt;
+
+&lt;p&gt;Förtchenpfanne ausfetten und schnell die Förtchen von beiden Seiten goldgelb backen.&lt;/p&gt;
+
+&lt;p&gt;Man kann die Förtchen mit Apfelmuss, Pflaumenmus, Äpfeln oder Backpflaumen füllen. Man gibt das Obst in den Teigball bevor man ihn umdreht.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Aug 2014 22:51:00 +0200</pubDate>
+        <link>http://tehlers.github.io/rezepte/rezepte/mehlspeisen/2014/08/02/einfache-foertchen/</link>
+        <guid isPermaLink="true">http://tehlers.github.io/rezepte/rezepte/mehlspeisen/2014/08/02/einfache-foertchen/</guid>
+        
+        <category>Mehlspeise</category>
+        
+        
+        <category>mehlspeisen</category>
+        
+      </item>
+    
   </channel>
 </rss>
