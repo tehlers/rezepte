@@ -31,7 +31,7 @@ jekyll build -d $BUILD_DIR
 DATE=$(date +%Y-%m-%d)
 TAG="Published_"$DATE"_"$(git log -n 1 --pretty=format:"%h")
 CHANGELOG=$(git shortlog $(git describe --abbrev=0 --match "Published_*")..)
-COMMIT_MESSAGE=$(git log -n 1 --pretty=format:"New release (%h)%n%nGenerated from branch 'source' at %H%n%nCHANGELOG")$'\n'$'\n'$CHANGELOG
+COMMIT_MESSAGE=$(git log -n 1 --pretty=format:"New release (%h)%n%nGenerated from branch 'master' at %H%n%nCHANGELOG")$'\n'$'\n'$CHANGELOG
 
 # Kopieren der generierten Seite in den Branch 'gh-pages'
 
