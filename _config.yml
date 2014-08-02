@@ -1,7 +1,7 @@
 # Site settings
 title: Rezepte
 description: "Eine Sammlung von Rezepten"
-baseurl: ""
+baseurl: "/rezepte"
 url: "http://tehlers.github.io/rezepte"
 
 exclude: ["bin", "README.md", "Gemfile", "Gemfile.lock"]
