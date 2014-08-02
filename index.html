@@ -5,7 +5,8 @@ layout: base
 <h1>Aktuelle Rezepte</h1>
 
 <ul class="list-group">
-    {% for post in site.posts %}
+    {% assign sorted_posts = site.posts | sort:"title" %}
+    {% for post in sorted_posts %}
         <li class="list-group-item">
             <h2 class="list-group-item-heading">
                 <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
