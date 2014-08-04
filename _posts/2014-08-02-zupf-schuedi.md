@@ -41,3 +41,5 @@ Zugedeckt an einem warmen Ort 45-60 Minuten gehen lassen, bis der Teig die Form 
 Backofen rechtzeitig auf 175°C Ober-/Unterhitze vorheizen und 30-35 Minuten backen. Falls nötig mit Alufolie abdecken, damit die Oberfläche nicht zu dunkel wird. 10 Minuten in der Form ruhen lassen, dann entnehmen und auf einem Kuchengitter auskühlen lassen.
 
 Bleibt mindestens 2-3 Tage saftig. Die Oberfläche ist frisch aber am knusprigsten.
+
+**Quelle:** [paules ki(t)chen](http://www.paules.lu/2011/11/zupf-schuedi/)
