@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Vanillekipfel"
 date: 2014-08-23 20:55:18
 categories: plaetzchen

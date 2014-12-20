@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Rosmarinkartoffeln"
 date: 2014-08-23 13:55:04
 categories: Beilagen

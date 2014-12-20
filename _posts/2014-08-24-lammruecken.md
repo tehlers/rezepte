@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Lammrücken"
 date: 2014-08-24 13:39:54
 categories: hauptmahlzeit

@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Spinatauflauf"
 date: 2014-08-24 13:20:41
 categories: hauptmahlzeiten

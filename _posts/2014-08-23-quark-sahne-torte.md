@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Quark-Sahne-Torte"
 date: 2014-08-23 20:35:34
 categories: Torten

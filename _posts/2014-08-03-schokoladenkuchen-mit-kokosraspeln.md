@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Schokoladenkuchen mit Kokosraspeln"
 date: 2014-08-03 22:19:13
 categories: kuchen

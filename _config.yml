@@ -9,3 +9,11 @@ exclude: ["bin", "README.md", "Gemfile", "Gemfile.lock"]
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "recipe"

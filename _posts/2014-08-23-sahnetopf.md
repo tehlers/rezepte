@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Sahnetopf"
 date: 2014-08-23 21:39:05
 categories: hauptmahlzeit

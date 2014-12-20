@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Einfache Förtchen"
 date:   2014-08-02 20:51:00
 categories: mehlspeisen

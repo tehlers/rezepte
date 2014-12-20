@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Blattspinat"
 date: 2014-08-23 21:14:40
 categories: beilagen

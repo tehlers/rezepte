@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Kartoffelgratin à la Siebeck"
 date: 2014-08-24 13:51:53
 categories: beilagen

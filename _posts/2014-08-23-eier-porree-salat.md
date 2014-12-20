@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Eier-Porree-Salat"
 date: 2014-08-23 22:24:30
 categories: salate

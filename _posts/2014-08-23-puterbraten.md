@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Puterbraten"
 date: 2014-08-23 13:33:47
 categories: Hauptgericht

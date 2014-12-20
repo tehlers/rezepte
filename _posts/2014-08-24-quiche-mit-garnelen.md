@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Quiche mit Garnelen"
 date: 2014-08-24 13:59:10
 categories: hauptmahlzeit

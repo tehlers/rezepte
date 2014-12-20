@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Zupf Schuedi"
 date:   2014-08-02 21:15:00
 categories: kuchen

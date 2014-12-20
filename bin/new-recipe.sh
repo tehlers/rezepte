@@ -24,7 +24,6 @@ RECIPE_FILE="${RECIPES_DIR}$(date +%Y-%m-%d)-${NORMALIZED_TITLE}.md"
 
 cat > $RECIPE_FILE <<EOF
 ---
-layout: recipe
 title: "$TITLE"
 date: $(date +"%Y-%m-%d %H:%M:%S")
 categories: 

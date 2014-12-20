@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Tomatenkonkassee"
 date: 2014-08-23 21:27:42
 categories: Hauptmahlzeit

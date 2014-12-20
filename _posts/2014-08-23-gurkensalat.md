@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Gurkensalat"
 date: 2014-08-23 20:47:14
 categories: Salate

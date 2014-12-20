@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Einfaches Bauernbrot"
 date: 2014-08-23 21:19:51
 categories: brot

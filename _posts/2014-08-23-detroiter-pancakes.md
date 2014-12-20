@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Detroiter Pancakes"
 date: 2014-08-23 22:20:38
 categories: mehlspeisen

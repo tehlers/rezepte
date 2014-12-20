@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "After-Eight-Eis"
 date: 2014-08-23 21:02:52
 categories: eis

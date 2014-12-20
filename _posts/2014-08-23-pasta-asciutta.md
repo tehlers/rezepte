@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Pasta asciutta"
 date: 2014-08-23 14:22:32
 categories: Hauptmahlzeit

@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Grießflammeri"
 date: 2014-08-23 21:46:39
 categories: nachtisch

@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Quiche à la Gerda"
 date: 2014-08-23 22:30:41
 categories: Hauptmahlzeit

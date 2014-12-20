@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Vanille-Milcheis"
 date: 2014-08-23 21:36:01
 categories: eis

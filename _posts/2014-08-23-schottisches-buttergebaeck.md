@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Schottisches Buttergebäck"
 date: 2014-08-23 21:07:06
 categories: plaetzchen
