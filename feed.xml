@@ -5,52 +5,89 @@
     <description>Eine Sammlung von Rezepten</description>
     <link>http://tehlers.github.io/rezepte/rezepte/</link>
     <atom:link href="http://tehlers.github.io/rezepte/rezepte/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 Aug 2014 19:58:32 +0200</pubDate>
-    <lastBuildDate>Sun, 24 Aug 2014 19:58:32 +0200</lastBuildDate>
-    <generator>Jekyll v2.2.0</generator>
+    <pubDate>Sat, 20 Dec 2014 22:49:29 +0100</pubDate>
+    <lastBuildDate>Sat, 20 Dec 2014 22:49:29 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
     
       <item>
         <title>Quiche mit Garnelen</title>
-        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-
+        <description>&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;ulist&quot;&gt;
 &lt;ul&gt;
-  &lt;li&gt;3 EL trockene Bohnen oder Erbsen&lt;/li&gt;
-  &lt;li&gt;80g Zwiebeln&lt;/li&gt;
-  &lt;li&gt;1 Knoblauchzehe&lt;/li&gt;
-  &lt;li&gt;150g Paprika&lt;/li&gt;
-  &lt;li&gt;150g Porree&lt;/li&gt;
-  &lt;li&gt;40g Zucchini&lt;/li&gt;
-  &lt;li&gt;3 EL Öl&lt;/li&gt;
-  &lt;li&gt;18 Garnelen&lt;/li&gt;
-  &lt;li&gt;1 EL “8 Kräuter”&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3 EL trockene Bohnen oder Erbsen&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;80g Zwiebeln&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 Knoblauchzehe&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;150g Paprika&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;150g Porree&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;40g Zucchini&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3 EL Öl&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;18 Garnelen&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 EL &quot;8 Kräuter&quot;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;/hauptmahlzeit/2014/08/24/quiche-a-la-gerda/&quot;&gt;Quicheteig à la Gerda&lt;/a&gt; in die gefettete Form geben, mehrfach mit der Gabel einstechen und ganz mit Pergamentpapier bedecken.&lt;/p&gt;
-
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;/rezepte/hauptmahlzeit/2014/08/24/quiche-a-la-gerda/&quot;&gt;Quicheteig à la Gerda&lt;/a&gt; in die gefettete Form geben, mehrfach mit der Gabel einstechen und ganz mit Pergamentpapier bedecken.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Auf das Papier die Erbsen oder Bohnen verteilen und dann im vorgeheizten Heißluftherd bei 180°C 8 Minuten backen. Die Löcher im Teig und die Erbsen verhinden Blasenbildung.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Anschließend das Papier und die Erbsen entfernen und den Teig auskühlen lassen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Die Zwiebeln und die Knoblauchzehe fein hacken.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Die Paprikaschote in feine Streifen schneiden.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Den Porree in dünne Ringe schneiden und die Zucchini würfeln.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Anschließend das Öl in der Pfanne erhitzen. Darin die Zwiebeln und den Knoblauch glasig dünsten.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Dann das restliche Gemüse al dente garen und abkühlen lassen.&lt;/p&gt;
-
-&lt;p&gt;Sahne-Eierguss (siehe &lt;a href=&quot;/hauptmahlzeiten/2014/08/24/spinatauflauf/&quot;&gt;Spinatauflauf&lt;/a&gt; mit 8 Kräutern verrühren.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Sahne-Eierguss (siehe &lt;a href=&quot;/rezepte/hauptmahlzeiten/2014/08/24/spinatauflauf/&quot;&gt;Spinatauflauf&lt;/a&gt; mit 8 Kräutern verrühren.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Das Gemüse auf den vorgegarten Teig geben und die Garnelen darauf verteilen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Den Sahne-Eierguss gleichmäßig über die Füllung geben.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Das ganze 20-25 Minuten bei 180°C im Heißluftherd backen.&lt;/p&gt;
-</description>
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
         <pubDate>Sun, 24 Aug 2014 15:59:10 +0200</pubDate>
         <link>http://tehlers.github.io/rezepte/rezepte/hauptmahlzeit/2014/08/24/quiche-mit-garnelen/</link>
         <guid isPermaLink="true">http://tehlers.github.io/rezepte/rezepte/hauptmahlzeit/2014/08/24/quiche-mit-garnelen/</guid>
@@ -64,33 +101,62 @@
     
       <item>
         <title>Kartoffelgratin à la Siebeck</title>
-        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-
+        <description>&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;ulist&quot;&gt;
 &lt;ul&gt;
-  &lt;li&gt;1kg Kartoffeln (halbfest kochend)&lt;/li&gt;
-  &lt;li&gt;300g geriebener Gruyère&lt;/li&gt;
-  &lt;li&gt;Salz&lt;/li&gt;
-  &lt;li&gt;Pfeffer&lt;/li&gt;
-  &lt;li&gt;Muskat&lt;/li&gt;
-  &lt;li&gt;¼l Sahne&lt;/li&gt;
-  &lt;li&gt;Butter&lt;/li&gt;
-  &lt;li&gt;1 Knoblauchzehe&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1kg Kartoffeln (halbfest kochend)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;300g geriebener Gruyère&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Salz&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pfeffer&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Muskat&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¼l Sahne&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Butter&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 Knoblauchzehe&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Die Kartoffeln schälen und in 3mm dicke Scheiben schneiden.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Die Kartoffelscheiben schichtweise in eine gebutterte, mit einer angeschnittenen Knoblauchzehe ausgeriebenen Form legen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Den Gruyère mit Salz, Pfeffer und Muskat über jede einzelne Schicht streuen. Dabei die oberste Schicht extra dick mit Käse bestreuen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Die Sahne über alle Schichten gießen, so dass die Kartoffeln fast bedeckt sind.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Auf die oberste Schicht Butterflöckchen setzen und das ganze 50 Minuten im vorgeheizten Heißluftherd bei 180°C backen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Wenn der Käse vorzeitig braun wird, sollte das Gratin mit Alufolie abgedeckt werden.&lt;/p&gt;
-</description>
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
         <pubDate>Sun, 24 Aug 2014 15:51:53 +0200</pubDate>
         <link>http://tehlers.github.io/rezepte/rezepte/beilagen/2014/08/24/kartoffelgratin-a-la-siebeck/</link>
         <guid isPermaLink="true">http://tehlers.github.io/rezepte/rezepte/beilagen/2014/08/24/kartoffelgratin-a-la-siebeck/</guid>
@@ -106,27 +172,50 @@
     
       <item>
         <title>Lammrücken</title>
-        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-
+        <description>&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;ulist&quot;&gt;
 &lt;ul&gt;
-  &lt;li&gt;2 Stück Lammrücken (je 150g-180g)&lt;/li&gt;
-  &lt;li&gt;Salz&lt;/li&gt;
-  &lt;li&gt;Pfeffer&lt;/li&gt;
-  &lt;li&gt;Rosmarin&lt;/li&gt;
-  &lt;li&gt;Rotwein&lt;/li&gt;
-  &lt;li&gt;Sahne&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 Stück Lammrücken (je 150g-180g)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Salz&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pfeffer&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rosmarin&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rotwein&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sahne&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Den Lammrücken vom Knochen abtrennen und in Butter von beiden Seiten je 2 Minuten anbraten.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Mit Salz, Pfeffer und Rosmarin würzen und dann bei 180°C im Heißluftherd 5-7 Minuten medium garen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Mit Rotwein den Bratensatz ablöschen und reduzieren.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Einen Schuss Sahne unterrühren und eventuell nachwürzen.&lt;/p&gt;
-</description>
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
         <pubDate>Sun, 24 Aug 2014 15:39:54 +0200</pubDate>
         <link>http://tehlers.github.io/rezepte/rezepte/hauptmahlzeit/2014/08/24/lammruecken/</link>
         <guid isPermaLink="true">http://tehlers.github.io/rezepte/rezepte/hauptmahlzeit/2014/08/24/lammruecken/</guid>
@@ -142,30 +231,53 @@
     
       <item>
         <title>Spinatauflauf</title>
-        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-
+        <description>&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;ulist&quot;&gt;
 &lt;ul&gt;
-  &lt;li&gt;2 Eier&lt;/li&gt;
-  &lt;li&gt;0,125l Sahne&lt;/li&gt;
-  &lt;li&gt;Salz&lt;/li&gt;
-  &lt;li&gt;Pfeffer&lt;/li&gt;
-  &lt;li&gt;75g Gruyère&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 Eier&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;0,125l Sahne&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Salz&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pfeffer&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;75g Gruyère&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-
-&lt;p&gt;Siehe &lt;a href=&quot;/beilagen/2014/08/23/blattspinat/&quot;&gt;Blattspinat&lt;/a&gt;, aber ohne Schinken.&lt;/p&gt;
-
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Siehe &lt;a href=&quot;/rezepte/beilagen/2014/08/23/blattspinat/&quot;&gt;Blattspinat&lt;/a&gt;, aber ohne Schinken.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Den Spinat in Auflaufform füllen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Die Eier glatt rühren und die Sahne hinzufügen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Mit Pfeffer und Salz würzen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Den Gruyère raspeln und unterheben.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Den Sahne-Eierguss über den gegarten Spinat geben und 20 Minuten bei 180°C im Heißluftherd überbacken.&lt;/p&gt;
-</description>
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
         <pubDate>Sun, 24 Aug 2014 15:20:41 +0200</pubDate>
         <link>http://tehlers.github.io/rezepte/rezepte/hauptmahlzeiten/2014/08/24/spinatauflauf/</link>
         <guid isPermaLink="true">http://tehlers.github.io/rezepte/rezepte/hauptmahlzeiten/2014/08/24/spinatauflauf/</guid>
@@ -179,43 +291,81 @@
     
       <item>
         <title>Quiche à la Gerda</title>
-        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-
+        <description>&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;sect2&quot;&gt;
 &lt;h3 id=&quot;teig&quot;&gt;Teig&lt;/h3&gt;
-
+&lt;div class=&quot;ulist&quot;&gt;
 &lt;ul&gt;
-  &lt;li&gt;200g Mehl&lt;/li&gt;
-  &lt;li&gt;100g Butter oder Margarine&lt;/li&gt;
-  &lt;li&gt;1 Ei&lt;/li&gt;
-  &lt;li&gt;2 EL Milch&lt;/li&gt;
-  &lt;li&gt;1 Prise Salz&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;200g Mehl&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;100g Butter oder Margarine&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 Ei&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 EL Milch&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 Prise Salz&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
 &lt;h3 id=&quot;belag&quot;&gt;Belag&lt;/h3&gt;
-
+&lt;div class=&quot;ulist&quot;&gt;
 &lt;ul&gt;
-  &lt;li&gt;750g Porreeringe&lt;/li&gt;
-  &lt;li&gt;200g geräucherter Lachs&lt;/li&gt;
-  &lt;li&gt;4 Eier&lt;/li&gt;
-  &lt;li&gt;1 Becher Schmand&lt;/li&gt;
-  &lt;li&gt;½ TL Salz&lt;/li&gt;
-  &lt;li&gt;Pfeffer&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;750g Porreeringe&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;200g geräucherter Lachs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4 Eier&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 Becher Schmand&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;½ TL Salz&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pfeffer&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Mehl, Butter, Ei, Milch und Salz zu einem Teig verarbeiten und 30 Minuten im Kühlschrank ruhen lassen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Die Porreeringe in etwas Butter dünsten.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Eier, Schmand, Salz und Pfeffer verrühren.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Die Quicheform butten und etwa zwei Drittel des Teiges ausrollen und in die Form geben - auch den Rand auslegen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Den Lachs auf dem Boden verteilen und die Eier-Schmand-Masse darüber geben.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Im Heißluftherd bei 200°C 30 Minuten backen.&lt;/p&gt;
-</description>
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
         <pubDate>Sun, 24 Aug 2014 00:30:41 +0200</pubDate>
         <link>http://tehlers.github.io/rezepte/rezepte/hauptmahlzeit/2014/08/24/quiche-a-la-gerda/</link>
         <guid isPermaLink="true">http://tehlers.github.io/rezepte/rezepte/hauptmahlzeit/2014/08/24/quiche-a-la-gerda/</guid>
@@ -229,23 +379,44 @@
     
       <item>
         <title>Eier-Porree-Salat</title>
-        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-
+        <description>&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;ulist&quot;&gt;
 &lt;ul&gt;
-  &lt;li&gt;10 gekochte Eier&lt;/li&gt;
-  &lt;li&gt;4-5 Stangen Porree&lt;/li&gt;
-  &lt;li&gt;2 Dosen Ananasstücke&lt;/li&gt;
-  &lt;li&gt;2 Gläser Selleriesalat&lt;/li&gt;
-  &lt;li&gt;6-7 Äpfel&lt;/li&gt;
-  &lt;li&gt;ca. 5 Gläser Joghurt-Salat-Creme (Kühne)&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;10 gekochte Eier&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4-5 Stangen Porree&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 Dosen Ananasstücke&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 Gläser Selleriesalat&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;6-7 Äpfel&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ca. 5 Gläser Joghurt-Salat-Creme (Kühne)&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Die Ananasstücke und den Selleriesalat gut abtropfen lassen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Anschließend alle Zutaten gut unterrühren.&lt;/p&gt;
-</description>
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
         <pubDate>Sun, 24 Aug 2014 00:24:30 +0200</pubDate>
         <link>http://tehlers.github.io/rezepte/rezepte/salate/2014/08/24/eier-porree-salat/</link>
         <guid isPermaLink="true">http://tehlers.github.io/rezepte/rezepte/salate/2014/08/24/eier-porree-salat/</guid>
@@ -259,26 +430,50 @@
     
       <item>
         <title>Detroiter Pancakes</title>
-        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-
+        <description>&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;ulist&quot;&gt;
 &lt;ul&gt;
-  &lt;li&gt;2 Eier&lt;/li&gt;
-  &lt;li&gt;2 Tassen Mehl&lt;/li&gt;
-  &lt;li&gt;4 EL Öl&lt;/li&gt;
-  &lt;li&gt;2 EL Zucker&lt;/li&gt;
-  &lt;li&gt;1½-2 TL Backpulver&lt;/li&gt;
-  &lt;li&gt;2 Tassen Milch&lt;/li&gt;
-  &lt;li&gt;1 Prise Salz&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 Eier&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 Tassen Mehl&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4 EL Öl&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 EL Zucker&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1½-2 TL Backpulver&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 Tassen Milch&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 Prise Salz&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Alle Zutaten zu einem Teig verarbeiten und 30 Minuten ruhen lassen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;In beschichteter Pfanne in Öl ausbacken.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Vor dem Verzehr mit Butter bestreichen und Ahornsirup beträufeln.&lt;/p&gt;
-</description>
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
         <pubDate>Sun, 24 Aug 2014 00:20:38 +0200</pubDate>
         <link>http://tehlers.github.io/rezepte/rezepte/mehlspeisen/2014/08/24/detroiter-pancakes/</link>
         <guid isPermaLink="true">http://tehlers.github.io/rezepte/rezepte/mehlspeisen/2014/08/24/detroiter-pancakes/</guid>
@@ -292,28 +487,53 @@
     
       <item>
         <title>Pancakes</title>
-        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-
+        <description>&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;ulist&quot;&gt;
 &lt;ul&gt;
-  &lt;li&gt;125g Mehl&lt;/li&gt;
-  &lt;li&gt;1 TL Backpulver&lt;/li&gt;
-  &lt;li&gt;2 TL Ahornsirup&lt;/li&gt;
-  &lt;li&gt;eventuell etwas Zucker&lt;/li&gt;
-  &lt;li&gt;1 Prise Salz&lt;/li&gt;
-  &lt;li&gt;1 Ei&lt;/li&gt;
-  &lt;li&gt;150ml Milch&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;125g Mehl&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 TL Backpulver&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 TL Ahornsirup&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;eventuell etwas Zucker&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 Prise Salz&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 Ei&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;150ml Milch&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Alle Zutaten zu einem Teig verrühren und ca. 30 Minuten ruhen lassen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;In beschichteter Pfanne mit wenig Butter backen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Vor dem Verzehr mit Butter bestreichen und Ahornsirup beträufeln.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Diese Pancakes sind weniger kalorienreich als unsere Detroiter Pancakes.&lt;/p&gt;
-</description>
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
         <pubDate>Sun, 24 Aug 2014 00:15:53 +0200</pubDate>
         <link>http://tehlers.github.io/rezepte/rezepte/mehlspeisen/2014/08/24/pancakes/</link>
         <guid isPermaLink="true">http://tehlers.github.io/rezepte/rezepte/mehlspeisen/2014/08/24/pancakes/</guid>
@@ -327,38 +547,71 @@
     
       <item>
         <title>Grießflammeri</title>
-        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-
+        <description>&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;ulist&quot;&gt;
 &lt;ul&gt;
-  &lt;li&gt;2 Blatt Gelantine&lt;/li&gt;
-  &lt;li&gt;¼l Milch&lt;/li&gt;
-  &lt;li&gt;75g Zucker&lt;/li&gt;
-  &lt;li&gt;1 längs aufgeschnittene Vanillestange&lt;/li&gt;
-  &lt;li&gt;45g Grieß&lt;/li&gt;
-  &lt;li&gt;1 Eigelb&lt;/li&gt;
-  &lt;li&gt;40ml Cointreau&lt;/li&gt;
-  &lt;li&gt;½ Päckchen Orangenback&lt;/li&gt;
-  &lt;li&gt;250g Sahne&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 Blatt Gelantine&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¼l Milch&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;75g Zucker&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 längs aufgeschnittene Vanillestange&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;45g Grieß&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 Eigelb&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;40ml Cointreau&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;½ Päckchen Orangenback&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;250g Sahne&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Gelantine in kaltem Wasser einweichen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Milch und Zucker aufkochen. Das Mark der Vanillestange auskratzen und in die Milch geben.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Den Grieß in die Milch rieseln lassen, mit dem Schneebesen verrühren und bei ganz geringer Hitze (oder neben dem Herd) 10 Minuten quellen lassen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Ausgedrückte Gelantine unter Rühren im Grießbrei auflösen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Eigelb, Cointreau und Orangenback verrühren und unter die warme Grießmasse geben.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Die Sahne steif schlagen und unterheben, wenn die Grießmasse zu gelieren beginnt.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Anschließend für drei Stunden in den Kühlschrank stellen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Dazu passt Orangensaft, Weinschaumcreme und sonstiges Obst mit angedickter Soße.&lt;/p&gt;
-</description>
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
         <pubDate>Sat, 23 Aug 2014 23:46:39 +0200</pubDate>
         <link>http://tehlers.github.io/rezepte/rezepte/nachtisch/2014/08/23/griessflammeri/</link>
         <guid isPermaLink="true">http://tehlers.github.io/rezepte/rezepte/nachtisch/2014/08/23/griessflammeri/</guid>
@@ -372,23 +625,41 @@
     
       <item>
         <title>Sahnetopf</title>
-        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-
+        <description>&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;ulist&quot;&gt;
 &lt;ul&gt;
-  &lt;li&gt;1kg Fleisch (Schwein, Pute oder Hähnchen)&lt;/li&gt;
-  &lt;li&gt;3 Becher Sahne (oder die Hälfte Wasser)&lt;/li&gt;
-  &lt;li&gt;2 Dosen Pilze inklusive der Flüssigkeit&lt;/li&gt;
-  &lt;li&gt;2 Tüten Spargelcremesuppe&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1kg Fleisch (Schwein, Pute oder Hähnchen)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3 Becher Sahne (oder die Hälfte Wasser)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 Dosen Pilze inklusive der Flüssigkeit&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 Tüten Spargelcremesuppe&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Alles gut verrühren und mit dem Fleisch in eine feuerfeste Schüssel geben.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;60 Minuten bei 180°C im Ofen garen.&lt;/p&gt;
-
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Dazu reicht man Reis, Meterbrot oder einen Salat.&lt;/p&gt;
-</description>
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
         <pubDate>Sat, 23 Aug 2014 23:39:05 +0200</pubDate>
         <link>http://tehlers.github.io/rezepte/rezepte/hauptmahlzeit/2014/08/23/sahnetopf/</link>
         <guid isPermaLink="true">http://tehlers.github.io/rezepte/rezepte/hauptmahlzeit/2014/08/23/sahnetopf/</guid>
