@@ -20,7 +20,7 @@ NORMALIZED_TITLE=$(echo ${TITLE,,} | sed -e 's-ä-ae-g' \
                                  -e 's-ß-ss-g' \
                                  -e 's-à-a-g' \
                                  -e 's-\ -\--g')
-RECIPE_FILE="${RECIPES_DIR}$(date +%Y-%m-%d)-${NORMALIZED_TITLE}.md"
+RECIPE_FILE="${RECIPES_DIR}$(date +%Y-%m-%d)-${NORMALIZED_TITLE}.adoc"
 
 cat > $RECIPE_FILE <<EOF
 ---

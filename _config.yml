@@ -1,7 +1,7 @@
 # Site settings
 title: Rezepte
 description: "Eine Sammlung von Rezepten"
-baseurl: "/rezepte"
+baseurl: /rezepte
 url: "http://tehlers.github.io/rezepte"
 
 exclude: ["bin", "README.md", "Gemfile", "Gemfile.lock"]
@@ -11,9 +11,13 @@ markdown: kramdown
 permalink: pretty
 
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "recipe"
+    -
+        scope:
+            path: ""
+            type: "posts"
+        values:
+            layout: "recipe"
+
+asciidoctor:
+    attributes:
+        - hardbreaks!

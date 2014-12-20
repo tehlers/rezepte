@@ -15,7 +15,7 @@ tags: Hauptmahlzeit
 
 ## Zubereitung
 
-Siehe [Blattspinat]({% post_url 2014-08-23-blattspinat %}), aber ohne Schinken.
+Siehe link:{{ site.baseurl }}{% post_url 2014-08-23-blattspinat %}[Blattspinat], aber ohne Schinken.
 
 Den Spinat in Auflaufform füllen.
 

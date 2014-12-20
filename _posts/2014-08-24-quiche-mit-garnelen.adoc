@@ -19,7 +19,7 @@ tags: Hauptmahlzeit
 
 ## Zubereitung
 
-[Quicheteig à la Gerda]({% post_url 2014-08-23-quiche-a-la-gerda %}) in die gefettete Form geben, mehrfach mit der Gabel einstechen und ganz mit Pergamentpapier bedecken.
+link:{{ site.baseurl }}{% post_url 2014-08-23-quiche-a-la-gerda %}[Quicheteig à la Gerda] in die gefettete Form geben, mehrfach mit der Gabel einstechen und ganz mit Pergamentpapier bedecken.
 
 Auf das Papier die Erbsen oder Bohnen verteilen und dann im vorgeheizten Heißluftherd bei 180°C 8 Minuten backen. Die Löcher im Teig und die Erbsen verhinden Blasenbildung.
 
@@ -35,7 +35,7 @@ Anschließend das Öl in der Pfanne erhitzen. Darin die Zwiebeln und den Knoblau
 
 Dann das restliche Gemüse al dente garen und abkühlen lassen.
 
-Sahne-Eierguss (siehe [Spinatauflauf]({% post_url 2014-08-24-spinatauflauf %}) mit 8 Kräutern verrühren.
+Sahne-Eierguss (siehe link:{{ site.baseurl }}{% post_url 2014-08-24-spinatauflauf %}[Spinatauflauf] mit 8 Kräutern verrühren.
 
 Das Gemüse auf den vorgegarten Teig geben und die Garnelen darauf verteilen.
 
