@@ -20,7 +20,7 @@ tags: Hauptmahlzeit
 
 ## Zubereitung
 
-[Quicheteig à la Gerda]({% post_url 2014-08-24-quiche-a-la-gerda %}) in die gefettete Form geben, mehrfach mit der Gabel einstechen und ganz mit Pergamentpapier bedecken.
+[Quicheteig à la Gerda]({% post_url 2014-08-23-quiche-a-la-gerda %}) in die gefettete Form geben, mehrfach mit der Gabel einstechen und ganz mit Pergamentpapier bedecken.
 
 Auf das Papier die Erbsen oder Bohnen verteilen und dann im vorgeheizten Heißluftherd bei 180°C 8 Minuten backen. Die Löcher im Teig und die Erbsen verhinden Blasenbildung.
 
