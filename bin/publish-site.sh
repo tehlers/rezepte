@@ -34,10 +34,18 @@ git checkout master
 jekyll build -d $BUILD_DIR
 
 # Protokollierung der Änderungen
+
 DATE=$(date +%Y-%m-%d)
 TAG="Published_"$DATE"_"$(git log -n 1 --pretty=format:"%h")
 CHANGELOG=$(git shortlog $(git describe --abbrev=0 --match "Published_*")..)
 COMMIT_MESSAGE=$(git log -n 1 --pretty=format:"New release (%h)%n%nGenerated from branch 'master' at %H%n%nCHANGELOG")$'\n'$'\n'$CHANGELOG
+
+# Abbruch, wenn keine Änderungen gegenüber der letzten Veröffentlichung bestehen
+
+if  [ -z "$CHANGELOG" ]; then
+    echo "No changes since last release"
+    exit 1
+fi
 
 # Kopieren der generierten Seite in den Branch 'gh-pages'
 
