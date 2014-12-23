@@ -9,12 +9,18 @@
 
 set -e
 
+PROJECT_DIR=$(dirname $0)/..
 WORK_DIR=$(mktemp -d)
 REPOSITORY="git@github.com:tehlers/rezepte.git"
 CLONE_DIR=$WORK_DIR/rezepte
 BUILD_DIR=$WORK_DIR/site
 
 trap "rm -rf $WORK_DIR" SIGINT SIGTERM
+
+# Konfigurierten Autor im lokalen Klon ermitteln
+
+cd $PROJECT_DIR
+AUTHOR="$(git config --get user.name) <$(git config --get user.email)>"
 
 # Aktuelles Repository von Github klonen
 
@@ -43,7 +49,7 @@ cp -r $BUILD_DIR/* $CLONE_DIR
 # Veröffentlichung der neu generierten Seite
 
 git add --all
-git commit -m "$COMMIT_MESSAGE"
+git commit -m "$COMMIT_MESSAGE" --author "$AUTHOR"
 git push
 
 # Tags erstellen
